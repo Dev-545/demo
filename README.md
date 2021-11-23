@@ -1,2 +1,2 @@
 # demo
-demo for nnobs
+demo for noobs
